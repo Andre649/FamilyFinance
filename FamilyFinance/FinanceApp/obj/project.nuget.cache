@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ib3tz+GSCXIk+gTddvjbG5q8tou3YN+83hKyHEcm2MEMNF3PJDXiHSLmIEeJ/BGSUNT3Y5/qoetRSopBypJSuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Andre\\OneDrive\\Family Room\\FamilyFinance\\FinanceApp\\FinanceApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andre\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

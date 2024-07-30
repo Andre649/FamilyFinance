@@ -1,0 +1,6 @@
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.csproj.AssemblyReference.cache
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.AssemblyInfoInputs.cache
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.AssemblyInfo.cs
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.csproj.CoreCompileInputs.cache
+C:\Users\Andre\OneDrive\Family Room\FamilyFinance\FinanceApp\obj\Debug\net8.0-windows\FinanceApp.sourcelink.json
